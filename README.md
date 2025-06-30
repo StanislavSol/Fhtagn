@@ -33,4 +33,4 @@ php triangle.php 12
 - PHP 7.4+
 - Командная строка
 
-[DEMO](https://asciinema.org/a/dASEcVj2DAzbc0SHDaZUDMU)
+[DEMO](https://asciinema.org/a/dASEcVj2DAzbc0SHDaZUDMUAI)
